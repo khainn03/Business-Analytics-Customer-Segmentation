@@ -17,6 +17,9 @@ The SQL script is structured as follows:
 - Segment-Specific Temporary Tables: Creates temporary tables for each customer segment (Platinum, Gold, Silver, Clienteling, Others).
 - Final Result: Combines the results for each segment into a final output table.
 
+## Excel Output
+An Excel spreadsheet showcasing the desired output view of the SQL script has been uploaded to the repository. You can find it
+
 
 
 
