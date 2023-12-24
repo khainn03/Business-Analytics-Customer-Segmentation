@@ -4,6 +4,8 @@ SELECT COUNT(DISTINCT MemberAccountCode) AS total_no_clients
 FROM transactions;
 
 #Total sales
+#All monetary calculations involve dividing by 23.360
+#This is because the data is in Vietnamese Dong (VND) and the segmentation requirements is in USD. The exchange rate is 1 USD = 23.360 VND.
 SELECT SUM(SalesAmt) / 23360 AS total_sales
 FROM transactions;
 
