@@ -8,7 +8,7 @@ This repository contains SQL scripts aimed at analyzing critical statistics of a
   + Average Transaction Value (ATV) and Units per Transaction (UPT): Computes the average transaction value and units per transaction.
   + Number of Transactions with More than 2 Items: Identifies transactions with more than two items.
 - Segmentation: Segments customers into different categories based on their total revenue, such as Platinum, Gold, Silver, Clienteling, and Others.
-- Currency Conversion: Note that the dataset is in VND (Vietnamese Dong) currency. To align with segmentation requirements in USD currency, all monetary calculations involve dividing by 23.60.
+- Currency Conversion: Note that the dataset is in VND (Vietnamese Dong) currency. To align with segmentation requirements in USD currency, all monetary calculations involve dividing by 23.360.
 
 
 ## Script Structure
