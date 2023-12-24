@@ -18,7 +18,7 @@ The SQL script is structured as follows:
 - Final Result: Combines the results for each segment into a final output table.
 
 ## Excel Output
-An Excel spreadsheet showcasing the desired output view of the SQL script has been uploaded to the repository. You can find it
+An Excel spreadsheet showcasing the desired output view of the SQL script has been uploaded to the repository. You can download it here https://github.com/khainn03/Business-Analytics-Customer-Segmentation/blob/main/Test-Assesment.xlsx
 
 
 
