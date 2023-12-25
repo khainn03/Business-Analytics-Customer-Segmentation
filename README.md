@@ -1,7 +1,7 @@
 # Business Analytics and Customer Segmentation
 
 ## Overview
-This repository contains an SQL script designed to analyze critical business statistics, with a primary focus on customer segmentation. The objective is to generate a comprehensive and organized summary of key business metrics directly within the SQL output view. Rather than recording individual statistics in an Excel spreadsheet, the script aims to replicate a summary table view, providing a convenient and dynamic way to assess the business's performance and customer segments directly in the SQL environment.
+This repository contains an SQL script designed to analyze critical business statistics, with a primary focus on customer segmentation. The goal is to provide a clear and organized summary of key business metrics and segment customers based on their purchasing behavior. Rather than recording individual statistics in an Excel spreadsheet, the script aims to produce a summary table view as the final output, providing a convenient and dynamic way to assess the business's performance and customer segments directly in the SQL environment.
 
 
 ## Key Features
@@ -20,10 +20,15 @@ The SQL script is structured as follows:
 - Segment-Specific Temporary Tables: Creates temporary tables for each customer segment (Platinum, Gold, Silver, Clienteling, Others).
 - Final Result: Combines the results for each segment into a final output table.
 
+## Final Output View
+<img width="1000" alt="image" src="https://github.com/khainn03/Business-Analytics-Customer-Segmentation/assets/149082730/f285d33c-5f69-46c4-a0ba-456cba46260b">
 
-## Excel Output
+
+
+## Spreadsheet View 
 An Excel spreadsheet showcasing the desired output view of the SQL script has been uploaded to the repository. You can download it here https://github.com/khainn03/Business-Analytics-Customer-Segmentation/blob/main/Test-Assesment.xlsx
-<img width="110" alt="image" src="https://github.com/khainn03/Business-Analytics-Customer-Segmentation/assets/149082730/96cffb75-4198-44d4-9f3c-43751a80a1ce">
+<img width="1000" alt="image" src="https://github.com/khainn03/Business-Analytics-Customer-Segmentation/assets/149082730/67c927ea-a7f0-4e1a-8621-ad7bc11d862b">
+
 
 
 
