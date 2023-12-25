@@ -16,7 +16,7 @@ This repository contains an SQL script designed to analyze critical business sta
 The SQL script is structured as follows:
 - Total Statistics Section: Computes overall statistics for the dataset.
 - Segmentation Table: Categorizes customers into different segments based on their total revenue.
-- Total Amounts: Creates temporary tables for total statistics.
+- Total Amounts: Creates temporary table for total statistics.
 - Segment-Specific Temporary Tables: Creates temporary tables for each customer segment (Platinum, Gold, Silver, Clienteling, Others).
 - Final Result: Combines the results for each segment into a final output table.
 
