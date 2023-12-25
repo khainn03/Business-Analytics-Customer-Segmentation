@@ -23,6 +23,8 @@ The SQL script is structured as follows:
 
 ## Excel Output
 An Excel spreadsheet showcasing the desired output view of the SQL script has been uploaded to the repository. You can download it here https://github.com/khainn03/Business-Analytics-Customer-Segmentation/blob/main/Test-Assesment.xlsx
+<img width="110" alt="image" src="https://github.com/khainn03/Business-Analytics-Customer-Segmentation/assets/149082730/96cffb75-4198-44d4-9f3c-43751a80a1ce">
+
 
 
 
