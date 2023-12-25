@@ -1,5 +1,5 @@
 -- Calculate overall statistics
-# Total number of clients
+#Total number of clients
 SELECT COUNT(DISTINCT MemberAccountCode) AS total_no_clients
 FROM transactions;
 
@@ -236,7 +236,7 @@ CREATE TEMPORARY TABLE Others AS (SELECT A.Segmentation,
 						       HAVING COUNT(ItemName) >= 2) AS transactions_with_more_than_2_items) AS B
 						ON A.SEGMENTATION = B.SEGMENTATION);
 
-# Combine all results final output
+# Combine the results of all segmentations and the total statistics into a final output table
 SELECT *
 FROM Total
 UNION
