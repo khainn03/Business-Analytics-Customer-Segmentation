@@ -26,7 +26,7 @@ The SQL script is structured as follows:
 
 
 ## Spreadsheet View 
-An Excel spreadsheet showcasing the desired output view of the SQL script has been uploaded to the repository. You can download it [here](#Spreadsheet-View.xlsx)
+An Excel spreadsheet showcasing the desired output view of the SQL script has also been uploaded to the repository for demonstration.
 <img width="1000" alt="image" src="https://github.com/khainn03/Business-Analytics-Customer-Segmentation/assets/149082730/67c927ea-a7f0-4e1a-8621-ad7bc11d862b">
 
 
