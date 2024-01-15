@@ -17,7 +17,7 @@ The SQL script is structured as follows:
 - Total Statistics Section: Computes overall statistics for the dataset.
 - Segmentation Table: Categorizes customers into different segments based on their total revenue.
 - Total Amounts: Creates temporary table for total statistics.
-- Segment-Specific Temporary Tables: Creates temporary tables for each customer segment (Platinum, Gold, Silver, Clienteling, Others).
+- Segment-Specific Temporary Tables: Creates temporary tables for each customer segment (Platinum, Gold, Silver, Clienteling, Others) containing the required statistics.
 - Final Result: Combines the results for each segment into a final output table.
 
 ## Final Output View
