@@ -1,7 +1,7 @@
 # Business Analytics and Customer Segmentation
 
 ## Overview
-This repository contains an SQL script designed to analyze critical business statistics, with a primary focus on customer segmentation. The goal is to provide a clear and organized summary of key business metrics and segment customers based on their purchasing behavior. Rather than recording individual statistics in an Excel spreadsheet, the script aims to produce a summary table view as the final output, providing a convenient and dynamic way to assess the business's performance and customer segments directly in the SQL environment.
+This repository contains an SQL script that analyzes and derives critical business statistics from a customer transactions dataset, with a primary focus on customer segmentation. The goal is to provide a clear and organized summary of key business metrics and segment customers based on their purchasing behavior. Rather than recording individual statistics in an Excel spreadsheet, the script aims to produce a summary table view as the final output, providing a convenient and dynamic way to assess the business's performance and customer segments directly in the SQL environment.
 
 
 ## Key Features
