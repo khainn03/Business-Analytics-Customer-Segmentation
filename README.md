@@ -6,7 +6,7 @@ This repository contains an SQL script that analyzes and derives critical busine
 
 ## Key Features
 - Overall Statistics: Calculates overall statistics for the entire dataset, including the total number of clients, sales, transactions, and items sold.
-  + Average Transaction Value (ATV) and Units per Transaction (UPT): Computes the average transaction value and units per transaction.
+  + Average Transaction Value (ATV) and Units per Transaction (UPT): Computes the average transaction value and number of units per transaction.
   + Number of Transactions with More than 2 Items: Identifies transactions with more than two items.
 - Segmentation: Segments customers into different categories based on their total revenue, such as Platinum, Gold, Silver, Clienteling, and Others.
 - Currency Conversion: Note that the dataset is in VND (Vietnamese Dong) currency. To align with segmentation requirements in USD currency, all monetary calculations involve dividing by 23.360.
